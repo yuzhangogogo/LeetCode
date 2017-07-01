@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 import java.util.List;
-import java.util.TooManyListenersException;
-
 /**
  *Reverse digits of an integer.
  Example1: x = 123, return 321
